@@ -24,5 +24,5 @@
 
 ## Скриншот:
 
-[![screenshot](https://github.com/monocolus/myconkyconf/blob/main/screen.png?raw=true)]
+[screenshot](https://github.com/monocolus/myconkyconf/blob/main/screen.png?raw=true)]
 
